@@ -35,7 +35,7 @@ const MsaaFlowchart = () => {
           <text x="70" y="80" fontSize="14" fontWeight="bold" fill="#1e40af">STEP 1: PREPARATION</text>
 
           <rect x="50" y="390" width="1300" height="580" fill="url(#sectionGrad2)" stroke="#f59e0b" strokeWidth="2" rx="8" />
-          <text x="70" y="420" fontSize="14" fontWeight="bold" fill="#92400e">STEP 2A: GENERAL STATS (Clients Served & Hours of Care)</text>
+          <text x="70" y="420" fontSize="14" fontWeight="bold" fill="#92400e">STEP 2A: GENERAL STATS (Individuals Served & Hours of Care) <br> (RPOC + 25/45 + STEX + OLEX HMNS + HAL + HS + RC </br> </></text>
 
           <rect x="50" y="1020" width="1300" height="690" fill="url(#sectionGrad3)" stroke="#6366f1" strokeWidth="2" rx="8" />
           <text x="70" y="1050" fontSize="14" fontWeight="bold" fill="#3730a3">STEP 2B: RESIDENT DAYS (Special Procedure)</text>
